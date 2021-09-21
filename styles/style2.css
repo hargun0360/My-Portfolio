@@ -1,0 +1,36 @@
+.body{
+
+    background: linear-gradient(
+        rgba(0,0,0,0.8),
+        rgba(0,0,0,0.2)),
+        url('../bg/milkyway2.jpg');
+        background-size: cover;
+}
+
+
+.card{
+
+    background: rgb(51, 47, 47);
+}
+
+.text{
+
+    color: whitesmoke;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title{
+
+    color: whitesmoke;
+    font-size: 3em;
+    text-align: center;
+}
+
+.contact{
+
+    color: whitesmoke;
+    text-align: center;
+}
